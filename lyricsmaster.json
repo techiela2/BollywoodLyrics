@@ -1,9 +1,11 @@
-{
-   "song" : "Dil Diyan Gallan",
-   "movie" : "Tiger Zinda Hai",
-   "year" : "2017",
-   "singers" : "Atif Aslam",
-   "lyricists" : "Irshad Kamil",
-   "music_directors" : "Vishal Sekhar",
-   "lyrics" : "Kachchi doriyon doriyon doriyon se\nMainu tu bandh le\nPakki yaariyon yaariyon yaariyon mein\nAunde na fasle\n\n"
-}
+[
+   {
+      "song" : "Dil Diyan Gallan",
+      "movie" : "Tiger Zinda Hai",
+      "year" : "2017",
+      "singers" : "Atif Aslam",
+      "lyricists" : "Irshad Kamil",
+      "music_directors" : "Vishal Sekhar",
+      "lyrics" : "Kachchi doriyon doriyon doriyon se\nMainu tu bandh le\nPakki yaariyon yaariyon yaariyon mein\nAunde na fasle\n\n"
+   }
+]
