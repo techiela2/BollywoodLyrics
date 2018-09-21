@@ -2,7 +2,15 @@
 Community driven Bollywood Lyrics database. To add more lyrics, please submit Lyrics in this format to techiela2 AT gmail.com
 
 # Format 
-TBD
+  {
+    "song": "",
+    "movie": "",
+    "year": "",
+    "singers": "Kishore Kumar",
+    "lyricists": "",
+    "music_directors": "",
+    "lyrics": ""
+  }
 
 Creating the Lyrics with the correct format using Sublime Text editor.
 
