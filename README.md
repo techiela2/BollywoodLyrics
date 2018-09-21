@@ -6,7 +6,7 @@ Community driven Bollywood Lyrics database. To add more lyrics, please submit Ly
     "song": "",
     "movie": "",
     "year": "",
-    "singers": "Kishore Kumar",
+    "singers": "",
     "lyricists": "",
     "music_directors": "",
     "lyrics": ""
