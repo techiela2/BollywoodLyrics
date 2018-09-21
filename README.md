@@ -14,3 +14,5 @@ Community driven Bollywood Lyrics database. To add more lyrics, please submit Ly
 
 Creating the Lyrics with the correct format using Sublime Text editor.
 
+![Demo](BollywoodLyrics/Lyrics Data Formatting 720p.mov)
+
