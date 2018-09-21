@@ -3,3 +3,6 @@ Community driven Bollywood Lyrics database. To add more lyrics, please submit Ly
 
 # Format 
 TBD
+
+Creating the Lyrics with the correct format using Sublime Text editor.
+
