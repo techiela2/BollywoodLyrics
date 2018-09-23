@@ -21,8 +21,8 @@ Creating the Lyrics with the correct format using Sublime Text editor.
 
 # iOS App
 
-![home] (IMG_7949.jpg)
-![songs] (IMG_7950.jpg)
-![Lyrics] (IMG_7952.jpg)
-![Download] (IMG_7951.jpg)
+![home] (https://github.com/techiela2/BollywoodLyrics/blob/master/IMG_7949.jpg)
+![songs] (https://github.com/techiela2/BollywoodLyrics/blob/master/IMG_7950.jpg)
+![Lyrics] (https://github.com/techiela2/BollywoodLyrics/blob/master/IMG_7952.jpg)
+![Download] (https://github.com/techiela2/BollywoodLyrics/blob/master/IMG_7951.jpg)
 
