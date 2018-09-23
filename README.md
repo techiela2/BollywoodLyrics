@@ -17,11 +17,11 @@ https://itunes.apple.com/us/app/bollywood-lyrics/id1436992769?ls=1&mt=8
 
 Creating the Lyrics with the correct format using Sublime Text editor.
 
-![Lyrics Formatting](screenshot.png)(https://youtu.be/ZoqV5V5jLN8)
+![Lyrics Formatting](images/screenshot.png)(https://youtu.be/ZoqV5V5jLN8)
 
 # iOS App
 
-![Home](IMG_7949.jpg)
-![Songs](IMG_7950.jpg)
-![Lyrics](IMG_7952.jpg)
-![Download](IMG_7951.jpg)
+![Home](images/IMG_7949.jpg)
+![Songs](images/IMG_7950.jpg)
+![Lyrics](images/IMG_7952.jpg)
+![Download](images/IMG_7951.jpg)
