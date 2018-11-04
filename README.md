@@ -2,7 +2,9 @@
 Community driven Bollywood Lyrics database. To add more lyrics, please submit Lyrics in this format to techiela2 AT gmail.com or fork the repo, add your changes and submit a pull request to merge to the master db.
 
 Free iOS app that uses this
-https://itunes.apple.com/us/app/bollywood-lyrics/id1436992769?ls=1&mt=8
+Test Flight link: https://testflight.apple.com/join/qKT7PvtF (available)
+
+https://itunes.apple.com/us/app/bollywood-lyrics/id1436992769?ls=1&mt=8 (not yet available)
 
 # Format 
   {
