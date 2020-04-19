@@ -1,10 +1,13 @@
 # BollywoodLyrics
 Community driven Bollywood Lyrics database. To add more lyrics, please submit Lyrics in this format to techiela2 AT gmail.com or fork the repo, add your changes and submit a pull request to merge to the master db.
 
-Free iOS app that uses this
-Test Flight link: https://testflight.apple.com/join/qKT7PvtF (available)
+##Free Web App based on this
+[https://hindilyrics.web.app](https://hindilyrics.web.app)
 
-https://itunes.apple.com/us/app/bollywood-lyrics/id1436992769?ls=1&mt=8 (not yet available)
+Free iOS app that uses this, unfortunately Apple declined the app approval citing copyright concerns.
+Test Flight link: [https://testflight.apple.com/join/qKT7PvtF](https://testflight.apple.com/join/qKT7PvtF) (available)
+
+[https://itunes.apple.com/us/app/bollywood-lyrics/id1436992769?ls=1&mt=8](https://itunes.apple.com/us/app/bollywood-lyrics/id1436992769?ls=1&mt=8) (not yet available)
 
 # Format 
   {
